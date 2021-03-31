@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sandeep Amarnath
-- 👀 I’m Innovative front-end developer always striving to create beautiful and high-performance websites
+- 👀 I’m an innovative web developer always striving to create beautiful and high-performance websites
 - 🌱 I’m currently working on two new projects - Building Manager and Bookflix application
 - 💞️ I’m available to work on the web projects and can build you a website right from the design phase
 - 📫 You can reach me through email - sandeepamaranath@gmail.com
